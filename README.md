@@ -26,6 +26,23 @@ The project simulates how accounting transactions can be entered, validated, pos
 - Generate Profit & Loss and Balance Sheet reports
 - Analyze expenses by Cost Center
 - Provide a management dashboard
+  ## Screenshots
+
+### Transaction Entry
+
+![Transaction Entry](Screenshots/Screenshot%202026-10-05%20032239.png)
+
+### Journal
+
+![Journal](Screenshots/Screenshot%202026-10-05%20032302.png)
+
+### Profit & Loss
+
+![Profit & Loss](Screenshots/Screenshot%202026-10-05%20032321.png)
+
+### Balance Sheet
+
+![Balance Sheet](Screenshots/Screenshot%202026-10-05%20032342.png)
 
 ---
 
@@ -52,20 +69,3 @@ Cost Center Reporting
        ↓
 Management Dashboard
 
-## Screenshots
-
-### Transaction Entry
-
-![Transaction Entry](Screenshots/Screenshot%202026-10-05%20032239.png)
-
-### Journal
-
-![Journal](Screenshots/Screenshot%202026-10-05%20032302.png)
-
-### Profit & Loss
-
-![Profit & Loss](Screenshots/Screenshot%202026-10-05%20032321.png)
-
-### Balance Sheet
-
-![Balance Sheet](Screenshots/Screenshot%202026-10-05%20032342.png)
