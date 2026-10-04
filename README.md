@@ -6,7 +6,7 @@ This project is an Excel-based SAP FICO simulation developed to demonstrate core
 
 The project simulates how accounting transactions can be entered, validated, posted, and reflected across financial reports.
 
-**Company:** Emirates Trading LLC  
+**Company:** ELF STEELS PRIVATE LIMITED
 **Company Code:** ET01  
 **Currency:** AED  
 **Fiscal Year:** 2026  
